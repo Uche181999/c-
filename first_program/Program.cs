@@ -5,12 +5,7 @@ namespace first_program
     {
         public static void Main(string[] args)
         {
-            bool  canI = true;
-            Console.WriteLine("biggest integer {0}",int.MaxValue);
-            Console.WriteLine("smallest integer {0}",int.MinValue);
-            
-
-
+            Console.WriteLine("hello world");
         }
     }
 }
