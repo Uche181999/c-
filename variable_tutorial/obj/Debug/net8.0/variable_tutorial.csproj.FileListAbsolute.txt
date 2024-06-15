@@ -1,0 +1,15 @@
+C:\Users\uche\Desktop\c#\variable_tutorial\bin\Debug\net8.0\variable_tutorial.exe
+C:\Users\uche\Desktop\c#\variable_tutorial\bin\Debug\net8.0\variable_tutorial.deps.json
+C:\Users\uche\Desktop\c#\variable_tutorial\bin\Debug\net8.0\variable_tutorial.runtimeconfig.json
+C:\Users\uche\Desktop\c#\variable_tutorial\bin\Debug\net8.0\variable_tutorial.dll
+C:\Users\uche\Desktop\c#\variable_tutorial\bin\Debug\net8.0\variable_tutorial.pdb
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\variable_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\variable_tutorial.AssemblyInfoInputs.cache
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\variable_tutorial.AssemblyInfo.cs
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\variable_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\variable_tutorial.sourcelink.json
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\variable_tutorial.dll
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\refint\variable_tutorial.dll
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\variable_tutorial.pdb
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\variable_tutorial.genruntimeconfig.cache
+C:\Users\uche\Desktop\c#\variable_tutorial\obj\Debug\net8.0\ref\variable_tutorial.dll

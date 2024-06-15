@@ -1,10 +1,9 @@
 ﻿using System;
-
-namespace variable_tutorial
+namespace first_program
 {
     public class Program
     {
-        public static void main(string[] arg)
+        public static void Main(string[] args)
         {
             //boolean expression 
             bool called = true;
@@ -20,19 +19,17 @@ namespace variable_tutorial
             //double expression
             double fraction = 4.33;
             /*first method of outputing a value in writeLine*/
-            Console.WriteLine($"the value of called as a boolean expression :{called} ");
+            Console.WriteLine($"the value of called as a boolean expression : {called} ");
             /*second method of outputing a value in writeLine*/
-            Console.WriteLine("the value of number as a integer expression :{0} ", number);
-            //my favourite method of outputing value
-            Console.WriteLine($"the value of colour as a string expression :{colour} ");
-            Console.WriteLine($"the value of name as a string expression :{name} ");
-            Console.WriteLine($"the value of num as a integer expression :{num} ");
-            Console.WriteLine($"the value of dec as a float expression :{dec} ");
-            Console.WriteLine($"the value of fraction as a double expression :{fraction} ");
+            Console.WriteLine("the value of number as a integer expression : {0} ", number);
+            //my favourite method of outputing value in writeline
+            Console.WriteLine($"the value of colour as a string expression : {colour} ");
+            Console.WriteLine($"the value of name as a string expression : {name} ");
+            Console.WriteLine($"the value of num as a integer expression : {num} ");
+            Console.WriteLine($"the value of dec as a float expression : {dec} ");
+            Console.WriteLine($"the value of fraction as a double expression : {fraction} ");
 
 
         }
     }
-
-
 }
