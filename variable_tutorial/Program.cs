@@ -28,6 +28,7 @@ namespace first_program
             Console.WriteLine($"the value of num as a integer expression : {num} ");
             Console.WriteLine($"the value of dec as a float expression : {dec} ");
             Console.WriteLine($"the value of fraction as a double expression : {fraction} ");
+            Console.ReadKey();
 
 
         }
