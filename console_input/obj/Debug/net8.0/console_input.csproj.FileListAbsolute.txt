@@ -1,0 +1,15 @@
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\console_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\console_input.AssemblyInfoInputs.cache
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\console_input.AssemblyInfo.cs
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\console_input.csproj.CoreCompileInputs.cache
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\console_input.sourcelink.json
+C:\Users\uche\Desktop\c#\console_input\bin\Debug\net8.0\console_input.exe
+C:\Users\uche\Desktop\c#\console_input\bin\Debug\net8.0\console_input.deps.json
+C:\Users\uche\Desktop\c#\console_input\bin\Debug\net8.0\console_input.runtimeconfig.json
+C:\Users\uche\Desktop\c#\console_input\bin\Debug\net8.0\console_input.dll
+C:\Users\uche\Desktop\c#\console_input\bin\Debug\net8.0\console_input.pdb
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\console_input.dll
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\refint\console_input.dll
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\console_input.pdb
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\console_input.genruntimeconfig.cache
+C:\Users\uche\Desktop\c#\console_input\obj\Debug\net8.0\ref\console_input.dll
