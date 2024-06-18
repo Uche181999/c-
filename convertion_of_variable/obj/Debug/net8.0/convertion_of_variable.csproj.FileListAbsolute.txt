@@ -1,0 +1,15 @@
+C:\Users\uche\Desktop\c#\convertion_of_variable\bin\Debug\net8.0\convertion_of_variable.exe
+C:\Users\uche\Desktop\c#\convertion_of_variable\bin\Debug\net8.0\convertion_of_variable.deps.json
+C:\Users\uche\Desktop\c#\convertion_of_variable\bin\Debug\net8.0\convertion_of_variable.runtimeconfig.json
+C:\Users\uche\Desktop\c#\convertion_of_variable\bin\Debug\net8.0\convertion_of_variable.dll
+C:\Users\uche\Desktop\c#\convertion_of_variable\bin\Debug\net8.0\convertion_of_variable.pdb
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\convertion_of_variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\convertion_of_variable.AssemblyInfoInputs.cache
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\convertion_of_variable.AssemblyInfo.cs
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\convertion_of_variable.csproj.CoreCompileInputs.cache
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\convertion_of_variable.sourcelink.json
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\convertion_of_variable.dll
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\refint\convertion_of_variable.dll
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\convertion_of_variable.pdb
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\convertion_of_variable.genruntimeconfig.cache
+C:\Users\uche\Desktop\c#\convertion_of_variable\obj\Debug\net8.0\ref\convertion_of_variable.dll
