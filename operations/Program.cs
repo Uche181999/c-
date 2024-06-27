@@ -5,7 +5,11 @@ namespace operations
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
+            //arithmetic operation( +, -,* , /)
+            //logical operation ( <, >, <= ,>=, ==) they returna boolean expression true or false
+            
+
+
             Console.ReadKey();
         }
     }
