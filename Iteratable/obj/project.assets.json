@@ -1,4 +1,4 @@
- {
+{
   "version": 3,
   "targets": {
     "net8.0": {}
@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uche\\Desktop\\c#\\console_input\\console_input.csproj",
-      "projectName": "console_input",
-      "projectPath": "C:\\Users\\uche\\Desktop\\c#\\console_input\\console_input.csproj",
+      "projectUniqueName": "C:\\Users\\uche\\Desktop\\c#\\Iteratable\\Iteratable.csproj",
+      "projectName": "Iteratable",
+      "projectPath": "C:\\Users\\uche\\Desktop\\c#\\Iteratable\\Iteratable.csproj",
       "packagesPath": "C:\\Users\\uche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uche\\Desktop\\c#\\console_input\\obj\\",
+      "outputPath": "C:\\Users\\uche\\Desktop\\c#\\Iteratable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uche\\AppData\\Roaming\\NuGet\\NuGet.Config"

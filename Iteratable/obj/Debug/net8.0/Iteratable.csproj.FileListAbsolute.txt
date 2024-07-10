@@ -1,0 +1,15 @@
+C:\Users\uche\Desktop\c#\Iteratable\bin\Debug\net8.0\Iteratable.exe
+C:\Users\uche\Desktop\c#\Iteratable\bin\Debug\net8.0\Iteratable.deps.json
+C:\Users\uche\Desktop\c#\Iteratable\bin\Debug\net8.0\Iteratable.runtimeconfig.json
+C:\Users\uche\Desktop\c#\Iteratable\bin\Debug\net8.0\Iteratable.dll
+C:\Users\uche\Desktop\c#\Iteratable\bin\Debug\net8.0\Iteratable.pdb
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\Iteratable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\Iteratable.AssemblyInfoInputs.cache
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\Iteratable.AssemblyInfo.cs
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\Iteratable.csproj.CoreCompileInputs.cache
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\Iteratable.sourcelink.json
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\Iteratable.dll
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\refint\Iteratable.dll
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\Iteratable.pdb
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\Iteratable.genruntimeconfig.cache
+C:\Users\uche\Desktop\c#\Iteratable\obj\Debug\net8.0\ref\Iteratable.dll
