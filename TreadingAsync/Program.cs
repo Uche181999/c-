@@ -1,55 +1,56 @@
 ﻿using System;
-using System.Threading;
 using System.Threading.Tasks;
 
 class Program
 {
-    public static void Main(string[] args)
+    public static async Task Main(string[] args)
     {
-        //asyncronous function
-        makeTea();
-
-
+        // Asynchronous function
+        await makeTea();
 
         Console.ReadKey();
-
     }
+
     static async Task makeTea()
     {
-        //boil water 
-        await boilWater();
+        // Boil water and put tea in parallel
+        var boilWaterTask = boilWater();
+        var putTeaTask = putTea();
+        await Task.WhenAll(boilWaterTask, putTeaTask);
 
-        //put your tea herbs in a cup
-        putTea();
-        // add your water to the cup
+        // Add your water to the cup
         await addWater();
-        // stair the tea 
+
+        // Stir the tea
         await stirTea();
-        // tea is ready
-        await Task.Delay(1000);
+
+        // Simulate tea being ready
+        await Task.Delay(3000);
         Console.WriteLine("TEA IS READY!!!!");
     }
+
     static async Task boilWater()
     {
         Console.WriteLine("PUT WATER ON FIRE TO BOIL");
-        await Task.Delay(3000);
+        await Task.Delay(3000); // Simulate boiling water
         Console.WriteLine("WATER IS BOILING");
     }
-    static void putTea()
-    {
-        Console.WriteLine("put ur tea herbs in the cup");
 
+    static async Task putTea()
+    {
+        await Task.Delay(1000); // Simulate putting tea in the cup
+        Console.WriteLine("PUT YOUR TEA HERBS IN THE CUP");
     }
+
     static async Task addWater()
     {
-        await Task.Delay(1000);
-        Console.WriteLine("add your hot water to the cup");
-
+        await Task.Delay(1000); // Simulate adding water
+        Console.WriteLine("ADD YOUR HOT WATER TO THE CUP");
     }
+
     static async Task stirTea()
     {
-        await Task.Delay(1000);
-        Console.WriteLine("stair with a spoon ");
-
+        await Task.Delay(1000); // Simulate stirring the tea
+        Console.WriteLine("STIR WITH A SPOON");
     }
 }
