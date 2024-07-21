@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iteratable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb263db6700e3edb98068b2d060d0c92efd8fc91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90a57c1de6827e71d4f7f1355ed86df5379acae5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iteratable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iteratable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

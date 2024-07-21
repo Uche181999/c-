@@ -1,0 +1,15 @@
+C:\Users\uche\Desktop\c#\TreadingAsync\bin\Debug\net8.0\TreadingAsync.exe
+C:\Users\uche\Desktop\c#\TreadingAsync\bin\Debug\net8.0\TreadingAsync.deps.json
+C:\Users\uche\Desktop\c#\TreadingAsync\bin\Debug\net8.0\TreadingAsync.runtimeconfig.json
+C:\Users\uche\Desktop\c#\TreadingAsync\bin\Debug\net8.0\TreadingAsync.dll
+C:\Users\uche\Desktop\c#\TreadingAsync\bin\Debug\net8.0\TreadingAsync.pdb
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\TreadingAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\TreadingAsync.AssemblyInfoInputs.cache
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\TreadingAsync.AssemblyInfo.cs
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\TreadingAsync.csproj.CoreCompileInputs.cache
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\TreadingAsync.sourcelink.json
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\TreadingAsync.dll
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\refint\TreadingAsync.dll
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\TreadingAsync.pdb
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\TreadingAsync.genruntimeconfig.cache
+C:\Users\uche\Desktop\c#\TreadingAsync\obj\Debug\net8.0\ref\TreadingAsync.dll
