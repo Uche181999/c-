@@ -1,0 +1,15 @@
+C:\Users\uche\Desktop\c#\Generics\bin\Debug\net8.0\Generics.exe
+C:\Users\uche\Desktop\c#\Generics\bin\Debug\net8.0\Generics.deps.json
+C:\Users\uche\Desktop\c#\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+C:\Users\uche\Desktop\c#\Generics\bin\Debug\net8.0\Generics.dll
+C:\Users\uche\Desktop\c#\Generics\bin\Debug\net8.0\Generics.pdb
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\Generics.dll
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\refint\Generics.dll
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\Generics.pdb
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+C:\Users\uche\Desktop\c#\Generics\obj\Debug\net8.0\ref\Generics.dll
